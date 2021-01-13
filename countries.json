@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Egypt (ABC Beverages)",
+        "url": "https://abcbeverages.net/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/eg.svg",
+        "isProduction": true,
+        "isAvailable": false
+    },
+    {
+        "name": "Europe Export (HOP)",
+        "url": "https://www.heinekenonlineplatform.com/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/hop.svg",
+        "isProduction": true,
+        "isAvailable": false
+    },
+    {
+        "name": "Indonesia (Toko Bintang)",
+        "url": "https://tokobintang.co.id/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/id.svg",
+        "isProduction": true,
+        "isAvailable": false
+    },
+    {
+        "name": "Malaysia",
+        "url": "?????",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
+        "isProduction": true,
+        "isAvailable": true
+    },
+    {
+        "name": "Nigeria (QuickDrinks)",
+        "url": "https://quickdrinks.com/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/ng.png",
+        "isProduction": true,
+        "isAvailable": false
+    },
+    {
+        "name": "Russia (StarStore)",
+        "url": "https://starstore24.ru/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/ru.svg",
+        "isProduction": true,
+        "isAvailable": false
+    },
+    {
+        "name": "Common QA",
+        "url": "https://hdot-public-qa.azurewebsites.net/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/common.png",
+        "isProduction": false,
+        "isAvailable": true
+    },
+    {
+        "name": "Indonesia QA",
+        "url": "https://hei-id-nx-public-qa-v3.azurewebsites.net/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/id.svg",
+        "isProduction": false,
+        "isAvailable": true
+    },
+    {
+        "name": "Common ACC",
+        "url": "https://hei-dm2-b2botcom-a-azne-wa-frontend-1.azurewebsites.net/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/common.png",
+        "isProduction": false,
+        "isAvailable": true
+    }
+]
