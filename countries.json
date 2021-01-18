@@ -22,10 +22,10 @@
     },
     {
         "name": "Malaysia",
-        "url": "https://hdot-public-dev.azurewebsites.net/",
+        "url": "?????",
         "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
         "isProduction": true,
-        "isAvailable": true
+        "isAvailable": false
     },
     {
         "name": "Nigeria (QuickDrinks)",
@@ -61,5 +61,12 @@
         "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/common.png",
         "isProduction": false,
         "isAvailable": true
-    }
+    },
+    {
+        "name": "Malaysia",
+        "url": "https://hei-my-nx-public-qa-v3.azurewebsites.net/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
+        "isProduction": false,
+        "isAvailable": true
+    },
 ]
