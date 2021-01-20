@@ -64,7 +64,7 @@
     },
     {
         "name": "Malaysia",
-        "url": "https://hei-my-nx-public-qa-v3.azurewebsites.net/",
+        "url": "https://hdot-public-dev.azurewebsites.net/",
         "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
         "isProduction": false,
         "isAvailable": true
