@@ -63,7 +63,14 @@
         "isAvailable": true
     },
     {
-        "name": "Malaysia",
+        "name": "Malaysia ACC",
+        "url": "https://acc-www.heinekendot.my/",
+        "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
+        "isProduction": false,
+        "isAvailable": true
+    },
+    {
+        "name": "Malaysia QA",
         "url": "https://hei-my-nx-public-qa-v3.azurewebsites.net/",
         "imageUrl": "https://heigisb2botcompglobsa.blob.core.windows.net/app-countries/my.svg",
         "isProduction": false,
